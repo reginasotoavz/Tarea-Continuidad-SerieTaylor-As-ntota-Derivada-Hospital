@@ -1,1 +1,1 @@
-# Tarea-Continuidad-SerieTaylor-As-ntota-Derivada-Hospital
+# Tarea-Continuidad-SerieTaylor-Asintota-Derivada-LHospital
